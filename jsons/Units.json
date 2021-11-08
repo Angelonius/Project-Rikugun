@@ -1,0 +1,13 @@
+[
+    {
+		"name": "Tank Destroyer",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 80,
+		"cost": 400,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+125]% Strength <vs [Armored] units>", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+]
