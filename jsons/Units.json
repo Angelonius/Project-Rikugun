@@ -14,6 +14,7 @@
 		"name": "Rocket Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
+		"interceptRange": 2,
 		"strength": 60,
 		"cost": 400,
 		"requiredTech": "Rocketry",
