@@ -10,4 +10,16 @@
 		"uniques": ["[+125]% Strength <vs [Armored] units>", "Can move after attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Rocket Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 60,
+		"cost": 400,
+		"requiredTech": "Rocketry",
+		"requiredResource": "Copper",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+100]% Strength <vs [Armored] units>"
+			"[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "missile"
+	},
 ]
