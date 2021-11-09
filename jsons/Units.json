@@ -36,6 +36,6 @@
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+150]% Strength <vs [Helicopter] units>", 
 			    "[+150]% Strength <vs [Gunpowder] units>", "[+150]% Strength <vs [Ranged Gunpowder] units>", "Can move after attacking", 
 			    "Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
+		"attackSound": "machinegun"
 	},
 ]
