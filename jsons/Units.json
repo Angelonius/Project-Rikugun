@@ -1,5 +1,5 @@
 [
-    {
+        {
 		"name": "Tank Destroyer",
 		"unitType": "Armored",
 		"movement": 4,
@@ -20,7 +20,22 @@
 		"requiredTech": "Rocketry",
 		"requiredResource": "Copper",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+100]% Strength <vs [Armored] units>"
-			"[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+			"[+150]% Strength <vs [Helicopter] units>", "+[25]% combat bonus in [Hill]", "+[25]% combat bonus in [Forest]",
+			"+[25]% combat bonus in [Jungle]", "Never appears as a Barbarian unit"],
 		"attackSound": "missile"
+	},
+	{
+		"name": "Flaktank",
+		"unitType": "Armored",
+		"movement": 4,
+		"interceptRange": 2,
+		"strength": 75,
+		"cost": 400,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+150]% Strength <vs [Helicopter] units>", 
+			    "[+150]% Strength <vs [Gunpowder] units>", "[+150]% Strength <vs [Ranged Gunpowder] units>", "Can move after attacking", 
+			    "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	},
 ]
