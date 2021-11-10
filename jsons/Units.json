@@ -7,7 +7,7 @@
 		"cost": 400,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+125]% Strength <vs [Armored] units>", "Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["[+125]% Strength <vs [Armored] units>", "Can move after attacking", "[-25]% Strength <vs cities>", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -21,7 +21,7 @@
 		"requiredResource": "Copper",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+100]% Strength <vs [Armored] units>"
 			"[+150]% Strength <vs [Helicopter] units>", "+[25]% combat bonus in [Hill]", "+[25]% combat bonus in [Forest]",
-			"+[25]% combat bonus in [Jungle]", "Never appears as a Barbarian unit"],
+			"+[25]% combat bonus in [Jungle]", "[-25]% Strength <vs cities>", "Never appears as a Barbarian unit"],
 		"attackSound": "missile"
 	},
 	{
@@ -34,8 +34,8 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+150]% Strength <vs [Helicopter] units>", 
-			    "[+150]% Strength <vs [Gunpowder] units>", "[+150]% Strength <vs [Ranged Gunpowder] units>", "Can move after attacking", 
-			    "Never appears as a Barbarian unit"],
+			    "[+150]% Strength <vs [Gunpowder] units>", "[+150]% Strength <vs [Ranged Gunpowder] units>", "[-25]% Strength <vs cities>", 
+			    "Can move after attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
 ]
