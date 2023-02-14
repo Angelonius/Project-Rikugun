@@ -19,7 +19,7 @@
 		"cost": 400,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Copper",
-		"uniques": ["[50]% chance to intercept air attacks","[+50]% Strength <vs [Heavy Cavalry] units>", "[+50]% Strength <vs [Light Cavalry] units>", "[+50]% Strength <vs [Ranged Cavalry] units> <when attacking>", "[+50]% Strength <vs [Counter Cavalry] units>" 
+		"uniques": ["[50]% chance to intercept air attacks","[+50]% Strength <vs [Heavy Cavalry] units>", "[+50]% Strength <vs [Light Cavalry] units>", "[+50]% Strength <vs [Ranged Cavalry] units> <when attacking>", "[+50]% Strength <vs [Counter Cavalry] units>",
 			"[+50]% Strength <vs [Air Helicopter] units>", "+[25]% combat bonus in [Hill]", "+[25]% combat bonus in [Forest]"],
 			"+[25]% combat bonus in [Jungle]", "[-25]% Strength <vs cities>", "Never appears as a Barbarian unit"],
 		"attackSound": "missile"
@@ -35,7 +35,7 @@
 		"requiredResource": "Aluminum",
 		"uniques": ["[100]% chance to intercept air attacks", "[+30]% Strength <vs [Air Helicopter] units>", 
 			    "[+30]% Strength <vs [Infantry] units>", "[+150]% Strength <vs [Ranged Gunpowder] units>", "[-25]% Strength <vs cities>", 
-			    "[-30]% Strength <vs [Heavy Cavalry] units>", "[-30]% Strength <vs [Light Cavalry] units>", "[-30]% Strength <vs [Ranged Cavalry] units> <when attacking>", "[-30]% Strength <vs [Counter Cavalry] units>"  "Can move after attacking", "Never appears as a Barbarian unit"],
+			    "[-30]% Strength <vs [Heavy Cavalry] units>", "[-30]% Strength <vs [Light Cavalry] units>", "[-30]% Strength <vs [Ranged Cavalry] units> <when attacking>", "[-30]% Strength <vs [Counter Cavalry] units>",  "Can move after attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	},
 ]
