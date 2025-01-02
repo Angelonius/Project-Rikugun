@@ -20,8 +20,7 @@
 		"requiredTech": "Rocketry",
 		"requiredResource": "Copper",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+100]% Strength <vs [Armored] units>", 
-			"[+150]% Strength <vs [Helicopter] units>", "[+25]% combat bonus in [Hill]", "[+25]% combat bonus in [Forest]",
-			"[+25]% combat bonus in [Jungle]", "[-25]% Strength <vs cities>", "Never appears as a Barbarian unit"],
+			"[+150]% Strength <vs [Helicopter] units>", "[-25]% Strength <vs cities>", "Never appears as a Barbarian unit"],
 		"attackSound": "missile"
 	},
 	{
